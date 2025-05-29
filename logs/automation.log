@@ -1,0 +1,475 @@
+2025-05-25 07:37:44 [main] INFO  testCases.TC002_LoginTest - *** Click on My Account link ***
+2025-05-25 07:37:44 [main] INFO  testCases.TC002_LoginTest - *** Click on Login link ***
+2025-05-25 07:37:44 [main] INFO  testCases.TC002_LoginTest - *** Enter Password and Email ***
+2025-05-25 07:39:27 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+2025-05-25 07:39:27 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Click on My Account link ***
+2025-05-25 07:39:27 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Click on Register link ***
+2025-05-25 07:39:28 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Providing Customer details ***
+2025-05-25 07:39:30 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Validating expected message ***
+2025-05-25 07:39:30 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Passed
+2025-05-25 07:39:30 [main] INFO  testCases.TC001_AccountRegistrationTest - **** finished TC001_AccountRegistrationTest *** 
+2025-05-25 07:39:33 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+2025-05-25 07:39:33 [main] INFO  testCases.TC002_LoginTest - *** Click on My Account link ***
+2025-05-25 07:39:34 [main] INFO  testCases.TC002_LoginTest - *** Click on Login link ***
+2025-05-25 07:39:34 [main] INFO  testCases.TC002_LoginTest - *** Enter Password and Email ***
+2025-05-25 07:45:37 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+2025-05-25 07:45:37 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Click on My Account link ***
+2025-05-25 07:45:37 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Click on Register link ***
+2025-05-25 07:45:38 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Providing Customer details ***
+2025-05-25 07:45:41 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Validating expected message ***
+2025-05-25 07:45:41 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Passed
+2025-05-25 07:45:41 [main] INFO  testCases.TC001_AccountRegistrationTest - **** finished TC001_AccountRegistrationTest *** 
+2025-05-25 07:45:45 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+2025-05-25 07:45:45 [main] INFO  testCases.TC002_LoginTest - *** Click on My Account link ***
+2025-05-25 07:45:45 [main] INFO  testCases.TC002_LoginTest - *** Click on Login link ***
+2025-05-25 07:45:45 [main] INFO  testCases.TC002_LoginTest - *** Enter Password and Email ***
+2025-05-25 07:51:12 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+2025-05-25 07:51:12 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Click on My Account link ***
+2025-05-25 07:51:12 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Click on Register link ***
+2025-05-25 07:51:13 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Providing Customer details ***
+2025-05-25 07:51:14 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Validating expected message ***
+2025-05-25 07:51:15 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Passed
+2025-05-25 07:51:15 [main] INFO  testCases.TC001_AccountRegistrationTest - **** finished TC001_AccountRegistrationTest *** 
+2025-05-25 07:51:18 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+2025-05-25 07:51:18 [main] INFO  testCases.TC002_LoginTest - *** Click on My Account link ***
+2025-05-25 07:51:18 [main] INFO  testCases.TC002_LoginTest - *** Click on Login link ***
+2025-05-25 07:51:19 [main] INFO  testCases.TC002_LoginTest - *** Enter Password and Email ***
+2025-05-25 07:51:30 [main] ERROR testCases.TC002_LoginTest - Test Failed
+2025-05-25 07:54:21 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+2025-05-25 07:54:21 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Click on My Account link ***
+2025-05-25 07:54:21 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Click on Register link ***
+2025-05-25 07:54:22 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Providing Customer details ***
+2025-05-25 07:54:24 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Validating expected message ***
+2025-05-25 07:54:24 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Passed
+2025-05-25 07:54:24 [main] INFO  testCases.TC001_AccountRegistrationTest - **** finished TC001_AccountRegistrationTest *** 
+2025-05-25 07:54:27 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+2025-05-25 07:54:27 [main] INFO  testCases.TC002_LoginTest - *** Click on My Account link ***
+2025-05-25 07:54:28 [main] INFO  testCases.TC002_LoginTest - *** Click on Login link ***
+2025-05-25 07:54:28 [main] INFO  testCases.TC002_LoginTest - *** Enter Password and Email ***
+2025-05-25 07:54:39 [main] ERROR testCases.TC002_LoginTest - Test Failed
+2025-05-25 08:05:58 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aseel\eclipse-workspace\Automation\OpenCart\master.xml
+
+2025-05-25 08:06:02 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+2025-05-25 08:06:02 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Click on My Account link ***
+2025-05-25 08:06:02 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Click on Register link ***
+2025-05-25 08:06:03 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Providing Customer details ***
+2025-05-25 08:06:03 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Validating expected message ***
+2025-05-25 08:06:04 [main] INFO  testCases.TC001_AccountRegistrationTest - Test Passed
+2025-05-25 08:06:04 [main] INFO  testCases.TC001_AccountRegistrationTest - **** finished TC001_AccountRegistrationTest *** 
+2025-05-25 08:06:08 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+2025-05-25 08:06:08 [main] INFO  testCases.TC002_LoginTest - *** Click on My Account link ***
+2025-05-25 08:06:08 [main] INFO  testCases.TC002_LoginTest - *** Click on Login link ***
+2025-05-25 08:06:09 [main] INFO  testCases.TC002_LoginTest - *** Enter Password and Email ***
+2025-05-25 08:06:19 [main] ERROR testCases.TC002_LoginTest - Test Failed
+2025-05-25 08:11:26 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aseel\eclipse-workspace\Automation\OpenCart\master.xml
+
+2025-05-25 08:11:30 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+2025-05-25 08:11:30 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Click on My Account link ***
+2025-05-25 08:11:30 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Click on Register link ***
+2025-05-25 08:11:31 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Providing Customer details ***
+2025-05-25 08:11:33 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Validating expected message ***
+2025-05-25 08:11:33 [main] INFO  testCases.TC001_AccountRegistrationTest - Test Passed
+2025-05-25 08:11:33 [main] INFO  testCases.TC001_AccountRegistrationTest - **** finished TC001_AccountRegistrationTest *** 
+2025-05-25 08:11:37 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+2025-05-25 08:11:37 [main] INFO  testCases.TC002_LoginTest - *** Click on My Account link ***
+2025-05-25 08:11:37 [main] INFO  testCases.TC002_LoginTest - *** Click on Login link ***
+2025-05-25 08:11:37 [main] INFO  testCases.TC002_LoginTest - *** Enter Password and Email ***
+2025-05-25 08:11:48 [main] ERROR testCases.TC002_LoginTest - Test Failed - My Account page did not load after login.
+2025-05-25 08:11:48 [main] INFO  testCases.TC002_LoginTest - *** Finished TC002_LoginTest ***
+2025-05-25 09:25:31 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aseel\eclipse-workspace\Automation\OpenCart\master.xml
+
+2025-05-25 09:25:38 [main] INFO  testCases.TC003_LoginDDT - *** Starting TC003_LoginDDT ***
+2025-05-25 09:25:38 [main] INFO  testCases.TC003_LoginDDT - *** Click on My Account link ***
+2025-05-25 09:25:38 [main] INFO  testCases.TC003_LoginDDT - *** Click on Login link ***
+2025-05-25 09:25:38 [main] INFO  testCases.TC003_LoginDDT - *** Enter Password and Email ***
+2025-05-25 09:25:50 [main] ERROR testCases.TC003_LoginDDT - Test Failed - My Account page did not load after login.
+2025-05-25 09:25:50 [main] INFO  testCases.TC003_LoginDDT - *** Finished TC003_LoginDDT***
+2025-05-25 09:25:50 [main] INFO  testCases.TC003_LoginDDT - *** Starting TC003_LoginDDT ***
+2025-05-25 09:25:50 [main] INFO  testCases.TC003_LoginDDT - *** Click on My Account link ***
+2025-05-25 09:25:50 [main] INFO  testCases.TC003_LoginDDT - *** Click on Login link ***
+2025-05-25 09:25:50 [main] INFO  testCases.TC003_LoginDDT - *** Enter Password and Email ***
+2025-05-25 09:25:54 [main] INFO  testCases.TC003_LoginDDT - *** Finished TC003_LoginDDT***
+2025-05-25 09:25:54 [main] INFO  testCases.TC003_LoginDDT - *** Starting TC003_LoginDDT ***
+2025-05-25 09:25:54 [main] INFO  testCases.TC003_LoginDDT - *** Click on My Account link ***
+2025-05-25 09:25:54 [main] INFO  testCases.TC003_LoginDDT - *** Click on Login link ***
+2025-05-25 09:25:55 [main] INFO  testCases.TC003_LoginDDT - *** Enter Password and Email ***
+2025-05-25 09:26:06 [main] INFO  testCases.TC003_LoginDDT - *** Finished TC003_LoginDDT***
+2025-05-25 09:26:06 [main] INFO  testCases.TC003_LoginDDT - *** Starting TC003_LoginDDT ***
+2025-05-25 09:26:06 [main] INFO  testCases.TC003_LoginDDT - *** Click on My Account link ***
+2025-05-25 09:26:06 [main] INFO  testCases.TC003_LoginDDT - *** Click on Login link ***
+2025-05-25 09:26:07 [main] INFO  testCases.TC003_LoginDDT - *** Enter Password and Email ***
+2025-05-25 09:26:18 [main] INFO  testCases.TC003_LoginDDT - *** Finished TC003_LoginDDT***
+2025-05-25 09:26:18 [main] INFO  testCases.TC003_LoginDDT - *** Starting TC003_LoginDDT ***
+2025-05-25 09:26:18 [main] INFO  testCases.TC003_LoginDDT - *** Click on My Account link ***
+2025-05-25 09:26:18 [main] INFO  testCases.TC003_LoginDDT - *** Click on Login link ***
+2025-05-25 09:26:19 [main] INFO  testCases.TC003_LoginDDT - *** Enter Password and Email ***
+2025-05-25 09:26:21 [main] INFO  testCases.TC003_LoginDDT - Test Passed
+2025-05-25 09:26:22 [main] INFO  testCases.TC003_LoginDDT - *** Finished TC003_LoginDDT***
+2025-05-27 09:45:25 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aseel\eclipse-workspace\Automation\OpenCart\grouping.xml
+
+2025-05-27 09:45:30 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+2025-05-27 09:45:30 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Click on My Account link ***
+2025-05-27 09:45:30 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Click on Register link ***
+2025-05-27 09:45:31 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Providing Customer details ***
+2025-05-27 09:45:31 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Validating expected message ***
+2025-05-27 09:45:32 [main] INFO  testCases.TC001_AccountRegistrationTest - Test Passed
+2025-05-27 09:45:32 [main] INFO  testCases.TC001_AccountRegistrationTest - **** finished TC001_AccountRegistrationTest *** 
+2025-05-27 09:45:36 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+2025-05-27 09:45:36 [main] INFO  testCases.TC002_LoginTest - *** Click on My Account link ***
+2025-05-27 09:45:36 [main] INFO  testCases.TC002_LoginTest - *** Click on Login link ***
+2025-05-27 09:45:36 [main] INFO  testCases.TC002_LoginTest - *** Enter Password and Email ***
+2025-05-27 09:45:46 [main] ERROR testCases.TC002_LoginTest - Test Failed - My Account page did not load after login.
+2025-05-27 09:45:46 [main] INFO  testCases.TC002_LoginTest - *** Finished TC002_LoginTest ***
+2025-05-27 10:22:55 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aseel\eclipse-workspace\Automation\OpenCart\grouping.xml
+
+2025-05-27 10:22:59 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+2025-05-27 10:22:59 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Click on My Account link ***
+2025-05-27 10:22:59 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Click on Register link ***
+2025-05-27 10:23:00 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Providing Customer details ***
+2025-05-27 10:23:00 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Validating expected message ***
+2025-05-27 10:23:01 [main] INFO  testCases.TC001_AccountRegistrationTest - Test Passed
+2025-05-27 10:23:01 [main] INFO  testCases.TC001_AccountRegistrationTest - **** finished TC001_AccountRegistrationTest *** 
+2025-05-27 10:23:05 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+2025-05-27 10:23:05 [main] INFO  testCases.TC002_LoginTest - *** Click on My Account link ***
+2025-05-27 10:23:05 [main] INFO  testCases.TC002_LoginTest - *** Click on Login link ***
+2025-05-27 10:23:05 [main] INFO  testCases.TC002_LoginTest - *** Enter Password and Email ***
+2025-05-27 10:23:15 [main] ERROR testCases.TC002_LoginTest - Test Failed - My Account page did not load after login.
+2025-05-27 10:23:15 [main] INFO  testCases.TC002_LoginTest - *** Finished TC002_LoginTest ***
+2025-05-27 10:26:40 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aseel\eclipse-workspace\Automation\OpenCart\grouping.xml
+
+2025-05-27 10:26:44 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+2025-05-27 10:26:44 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Click on My Account link ***
+2025-05-27 10:26:44 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Click on Register link ***
+2025-05-27 10:26:45 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Providing Customer details ***
+2025-05-27 10:26:46 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Validating expected message ***
+2025-05-27 10:26:46 [main] INFO  testCases.TC001_AccountRegistrationTest - Test Passed
+2025-05-27 10:26:46 [main] INFO  testCases.TC001_AccountRegistrationTest - **** finished TC001_AccountRegistrationTest *** 
+2025-05-27 10:26:50 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+2025-05-27 10:26:50 [main] INFO  testCases.TC002_LoginTest - *** Click on My Account link ***
+2025-05-27 10:26:50 [main] INFO  testCases.TC002_LoginTest - *** Click on Login link ***
+2025-05-27 10:26:51 [main] INFO  testCases.TC002_LoginTest - *** Enter Password and Email ***
+2025-05-27 10:27:01 [main] ERROR testCases.TC002_LoginTest - Test Failed - My Account page did not load after login.
+2025-05-27 10:27:01 [main] INFO  testCases.TC002_LoginTest - *** Finished TC002_LoginTest ***
+2025-05-28 10:48:03 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aseel\eclipse-workspace\Automation\OpenCart\master.xml
+
+2025-05-28 10:48:11 [main] INFO  testCases.TC003_LoginDDT - *** Starting TC003_LoginDDT ***
+2025-05-28 10:48:12 [main] INFO  testCases.TC003_LoginDDT - *** Click on My Account link ***
+2025-05-28 10:48:12 [main] INFO  testCases.TC003_LoginDDT - *** Click on Login link ***
+2025-05-28 10:48:12 [main] INFO  testCases.TC003_LoginDDT - *** Enter Password and Email ***
+2025-05-28 10:48:23 [main] ERROR testCases.TC003_LoginDDT - Test Failed - My Account page did not load after login.
+2025-05-28 10:48:23 [main] INFO  testCases.TC003_LoginDDT - *** Finished TC003_LoginDDT***
+2025-05-28 10:48:24 [main] INFO  testCases.TC003_LoginDDT - *** Starting TC003_LoginDDT ***
+2025-05-28 10:48:24 [main] INFO  testCases.TC003_LoginDDT - *** Click on My Account link ***
+2025-05-28 10:48:24 [main] INFO  testCases.TC003_LoginDDT - *** Click on Login link ***
+2025-05-28 10:48:24 [main] INFO  testCases.TC003_LoginDDT - *** Enter Password and Email ***
+2025-05-28 10:48:27 [main] INFO  testCases.TC003_LoginDDT - *** Finished TC003_LoginDDT***
+2025-05-28 10:48:27 [main] INFO  testCases.TC003_LoginDDT - *** Starting TC003_LoginDDT ***
+2025-05-28 10:48:27 [main] INFO  testCases.TC003_LoginDDT - *** Click on My Account link ***
+2025-05-28 10:48:27 [main] INFO  testCases.TC003_LoginDDT - *** Click on Login link ***
+2025-05-28 10:48:28 [main] INFO  testCases.TC003_LoginDDT - *** Enter Password and Email ***
+2025-05-28 10:48:39 [main] INFO  testCases.TC003_LoginDDT - *** Finished TC003_LoginDDT***
+2025-05-28 10:48:39 [main] INFO  testCases.TC003_LoginDDT - *** Starting TC003_LoginDDT ***
+2025-05-28 10:48:39 [main] INFO  testCases.TC003_LoginDDT - *** Click on My Account link ***
+2025-05-28 10:48:39 [main] INFO  testCases.TC003_LoginDDT - *** Click on Login link ***
+2025-05-28 10:48:40 [main] INFO  testCases.TC003_LoginDDT - *** Enter Password and Email ***
+2025-05-28 10:48:51 [main] INFO  testCases.TC003_LoginDDT - *** Finished TC003_LoginDDT***
+2025-05-28 10:48:51 [main] INFO  testCases.TC003_LoginDDT - *** Starting TC003_LoginDDT ***
+2025-05-28 10:48:51 [main] INFO  testCases.TC003_LoginDDT - *** Click on My Account link ***
+2025-05-28 10:48:51 [main] INFO  testCases.TC003_LoginDDT - *** Click on Login link ***
+2025-05-28 10:48:52 [main] INFO  testCases.TC003_LoginDDT - *** Enter Password and Email ***
+2025-05-28 10:48:54 [main] INFO  testCases.TC003_LoginDDT - Test Passed
+2025-05-28 10:48:55 [main] INFO  testCases.TC003_LoginDDT - *** Finished TC003_LoginDDT***
+2025-05-28 10:49:43 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aseel\eclipse-workspace\Automation\OpenCart\master.xml
+
+2025-05-28 10:50:23 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aseel\eclipse-workspace\Automation\OpenCart\master.xml
+
+2025-05-28 10:50:29 [main] INFO  testCases.TC003_LoginDDT - *** Starting TC003_LoginDDT ***
+2025-05-28 10:50:29 [main] INFO  testCases.TC003_LoginDDT - *** Click on My Account link ***
+2025-05-28 10:50:29 [main] INFO  testCases.TC003_LoginDDT - *** Click on Login link ***
+2025-05-28 10:50:30 [main] INFO  testCases.TC003_LoginDDT - *** Enter Password and Email ***
+2025-05-28 10:50:41 [main] ERROR testCases.TC003_LoginDDT - Test Failed - My Account page did not load after login.
+2025-05-28 10:50:41 [main] INFO  testCases.TC003_LoginDDT - *** Finished TC003_LoginDDT***
+2025-05-28 10:50:41 [main] INFO  testCases.TC003_LoginDDT - *** Starting TC003_LoginDDT ***
+2025-05-28 10:50:41 [main] INFO  testCases.TC003_LoginDDT - *** Click on My Account link ***
+2025-05-28 10:50:41 [main] INFO  testCases.TC003_LoginDDT - *** Click on Login link ***
+2025-05-28 10:50:42 [main] INFO  testCases.TC003_LoginDDT - *** Enter Password and Email ***
+2025-05-28 10:50:44 [main] INFO  testCases.TC003_LoginDDT - *** Finished TC003_LoginDDT***
+2025-05-28 10:50:44 [main] INFO  testCases.TC003_LoginDDT - *** Starting TC003_LoginDDT ***
+2025-05-28 10:50:44 [main] INFO  testCases.TC003_LoginDDT - *** Click on My Account link ***
+2025-05-28 10:50:44 [main] INFO  testCases.TC003_LoginDDT - *** Click on Login link ***
+2025-05-28 10:50:45 [main] INFO  testCases.TC003_LoginDDT - *** Enter Password and Email ***
+2025-05-28 10:50:49 [main] INFO  testCases.TC003_LoginDDT - *** Finished TC003_LoginDDT***
+2025-05-28 10:50:49 [main] INFO  testCases.TC003_LoginDDT - *** Starting TC003_LoginDDT ***
+2025-05-28 10:50:49 [main] INFO  testCases.TC003_LoginDDT - *** Click on My Account link ***
+2025-05-28 10:50:49 [main] ERROR testCases.TC003_LoginDDT - Exception during login test: 
+org.openqa.selenium.NoSuchSessionException: invalid session id
+Build info: version: '4.32.0', revision: 'd17c8aa950'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [752065a1ba1cd734f74f8c8c4cbf3a11, findElement {value=//span[normalize-space()='My Account'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.114, chrome: {chromedriverVersion: 136.0.7103.113 (76fa3c17824..., userDataDir: C:\Users\aseel\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56082}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56082/devtoo..., se:cdpVersion: 136.0.7103.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 752065a1ba1cd734f74f8c8c4cbf3a11
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68) ~[selenium-support-4.32.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38) ~[selenium-support-4.32.0.jar:?]
+	at jdk.proxy2/jdk.proxy2.$Proxy31.click(Unknown Source) ~[?:?]
+	at pageObjects.HomePage.clickMyAccount(HomePage.java:28) ~[test-classes/:?]
+	at testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:25) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.11.0.jar:7.11.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.11.0.jar:7.11.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+2025-05-28 10:50:49 [main] INFO  testCases.TC003_LoginDDT - *** Finished TC003_LoginDDT***
+2025-05-28 10:50:49 [main] INFO  testCases.TC003_LoginDDT - *** Starting TC003_LoginDDT ***
+2025-05-28 10:50:49 [main] INFO  testCases.TC003_LoginDDT - *** Click on My Account link ***
+2025-05-28 10:50:49 [main] ERROR testCases.TC003_LoginDDT - Exception during login test: 
+org.openqa.selenium.NoSuchSessionException: invalid session id
+Build info: version: '4.32.0', revision: 'd17c8aa950'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [752065a1ba1cd734f74f8c8c4cbf3a11, findElement {value=//span[normalize-space()='My Account'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.114, chrome: {chromedriverVersion: 136.0.7103.113 (76fa3c17824..., userDataDir: C:\Users\aseel\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56082}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56082/devtoo..., se:cdpVersion: 136.0.7103.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 752065a1ba1cd734f74f8c8c4cbf3a11
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68) ~[selenium-support-4.32.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38) ~[selenium-support-4.32.0.jar:?]
+	at jdk.proxy2/jdk.proxy2.$Proxy31.click(Unknown Source) ~[?:?]
+	at pageObjects.HomePage.clickMyAccount(HomePage.java:28) ~[test-classes/:?]
+	at testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:25) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.11.0.jar:7.11.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.11.0.jar:7.11.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+2025-05-28 10:50:49 [main] INFO  testCases.TC003_LoginDDT - *** Finished TC003_LoginDDT***
+2025-05-28 10:52:07 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aseel\eclipse-workspace\Automation\OpenCart\crossBrowserTesting.xml
+
+2025-05-28 10:52:16 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+2025-05-28 10:52:16 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+2025-05-28 10:52:16 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *** Click on My Account link ***
+2025-05-28 10:52:16 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - *** Click on My Account link ***
+2025-05-28 10:52:16 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - *** Click on Register link ***
+2025-05-28 10:52:16 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *** Click on Register link ***
+2025-05-28 10:52:26 [TestNG-tests-2] ERROR testCases.TC001_AccountRegistrationTest - Exception during login test: 
+org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: MicrosoftEdge=136.0.3240.92)
+Build info: version: '4.32.0', revision: 'd17c8aa950'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [94b36abc06508cc3004897f3f4b98c46, clickElement {id=f.70D376B95DA354175D03950C361F8DC3.d.3E3DDCB3FE0F0E77D2621418C0A95AAA.e.89}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 136.0.3240.92, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:56198}, msedge: {msedgedriverVersion: 136.0.3240.92 (a30c59ee983a..., userDataDir: C:\Users\aseel\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: Windows 11, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://0.0.0.0:4444/session/9..., se:cdpVersion: 136.0.3240.92, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[RemoteWebDriver: MicrosoftEdge on Windows 11 (94b36abc06508cc3004897f3f4b98c46)] -> xpath: //a[normalize-space()='Register']]
+Session ID: 94b36abc06508cc3004897f3f4b98c46
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.TracedCommandExecutor.execute(TracedCommandExecutor.java:53) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:76) ~[selenium-remote-driver-4.32.0.jar:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51) ~[selenium-support-4.32.0.jar:?]
+	at jdk.proxy2/jdk.proxy2.$Proxy29.click(Unknown Source) ~[?:?]
+	at pageObjects.HomePage.clickRegister(HomePage.java:33) ~[test-classes/:?]
+	at testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:26) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.11.0.jar:7.11.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) ~[?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64) ~[testng-7.11.0.jar:7.11.0]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1575) [?:?]
+2025-05-28 10:52:26 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** finished TC001_AccountRegistrationTest *** 
+2025-05-28 10:52:36 [TestNG-tests-1] ERROR testCases.TC001_AccountRegistrationTest - Exception during login test: 
+org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: MicrosoftEdge=136.0.3240.92)
+Build info: version: '4.32.0', revision: 'd17c8aa950'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [94b36abc06508cc3004897f3f4b98c46, clickElement {id=f.70D376B95DA354175D03950C361F8DC3.d.3E3DDCB3FE0F0E77D2621418C0A95AAA.e.89}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 136.0.3240.92, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:56198}, msedge: {msedgedriverVersion: 136.0.3240.92 (a30c59ee983a..., userDataDir: C:\Users\aseel\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: Windows 11, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://0.0.0.0:4444/session/9..., se:cdpVersion: 136.0.3240.92, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[RemoteWebDriver: MicrosoftEdge on Windows 11 (94b36abc06508cc3004897f3f4b98c46)] -> xpath: //a[normalize-space()='Register']]
+Session ID: 94b36abc06508cc3004897f3f4b98c46
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.TracedCommandExecutor.execute(TracedCommandExecutor.java:53) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223) ~[selenium-remote-driver-4.32.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:76) ~[selenium-remote-driver-4.32.0.jar:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51) ~[selenium-support-4.32.0.jar:?]
+	at jdk.proxy2/jdk.proxy2.$Proxy29.click(Unknown Source) ~[?:?]
+	at pageObjects.HomePage.clickRegister(HomePage.java:33) ~[test-classes/:?]
+	at testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:26) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.11.0.jar:7.11.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) ~[?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64) ~[testng-7.11.0.jar:7.11.0]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1575) [?:?]
+2025-05-28 10:52:36 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** finished TC001_AccountRegistrationTest *** 
+2025-05-28 14:37:28 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aseel\eclipse-workspace\Automation\OpenCart\dockerRun.xml
+
+2025-05-28 14:37:34 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+2025-05-28 14:37:34 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Click on My Account link ***
+2025-05-28 14:37:34 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Click on Register link ***
+2025-05-28 14:37:35 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Providing Customer details ***
+2025-05-28 14:37:37 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Validating expected message ***
+2025-05-28 14:37:37 [main] INFO  testCases.TC001_AccountRegistrationTest - Test Passed
+2025-05-28 14:37:37 [main] INFO  testCases.TC001_AccountRegistrationTest - **** finished TC001_AccountRegistrationTest *** 
+2025-05-28 14:38:08 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aseel\eclipse-workspace\Automation\OpenCart\dockerRun.xml
+
+2025-05-28 14:38:15 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+2025-05-28 14:38:15 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Click on My Account link ***
+2025-05-28 14:38:15 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Click on Register link ***
+2025-05-28 14:38:16 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Providing Customer details ***
+2025-05-28 14:38:18 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Validating expected message ***
+2025-05-28 14:38:18 [main] INFO  testCases.TC001_AccountRegistrationTest - Test Passed
+2025-05-28 14:38:18 [main] INFO  testCases.TC001_AccountRegistrationTest - **** finished TC001_AccountRegistrationTest *** 
+2025-05-28 17:57:49 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+2025-05-28 17:57:49 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Click on My Account link ***
+2025-05-28 17:57:49 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Click on Register link ***
+2025-05-28 17:57:50 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Providing Customer details ***
+2025-05-28 17:57:51 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Validating expected message ***
+2025-05-28 17:57:52 [main] INFO  testCases.TC001_AccountRegistrationTest - Test Passed
+2025-05-28 17:57:52 [main] INFO  testCases.TC001_AccountRegistrationTest - **** finished TC001_AccountRegistrationTest *** 
+2025-05-28 20:51:16 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+2025-05-28 20:51:16 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Click on My Account link ***
+2025-05-28 20:51:16 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Click on Register link ***
+2025-05-28 20:51:16 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Providing Customer details ***
+2025-05-28 20:51:18 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Validating expected message ***
+2025-05-28 20:51:18 [main] INFO  testCases.TC001_AccountRegistrationTest - Test Passed
+2025-05-28 20:51:18 [main] INFO  testCases.TC001_AccountRegistrationTest - **** finished TC001_AccountRegistrationTest *** 
+2025-05-28 21:08:30 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+2025-05-28 21:08:30 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Click on My Account link ***
+2025-05-28 21:08:30 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Click on Register link ***
+2025-05-28 21:08:31 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Providing Customer details ***
+2025-05-28 21:08:33 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Validating expected message ***
+2025-05-28 21:08:33 [main] INFO  testCases.TC001_AccountRegistrationTest - Test Passed
+2025-05-28 21:08:33 [main] INFO  testCases.TC001_AccountRegistrationTest - **** finished TC001_AccountRegistrationTest *** 
+2025-05-28 21:25:50 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+2025-05-28 21:25:50 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Click on My Account link ***
+2025-05-28 21:25:50 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Click on Register link ***
+2025-05-28 21:25:50 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Providing Customer details ***
+2025-05-28 21:25:53 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Validating expected message ***
+2025-05-28 21:25:53 [main] INFO  testCases.TC001_AccountRegistrationTest - Test Passed
+2025-05-28 21:25:53 [main] INFO  testCases.TC001_AccountRegistrationTest - **** finished TC001_AccountRegistrationTest *** 
