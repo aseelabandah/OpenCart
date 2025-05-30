@@ -473,3 +473,23 @@ Session ID: 94b36abc06508cc3004897f3f4b98c46
 2025-05-28 21:25:53 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Validating expected message ***
 2025-05-28 21:25:53 [main] INFO  testCases.TC001_AccountRegistrationTest - Test Passed
 2025-05-28 21:25:53 [main] INFO  testCases.TC001_AccountRegistrationTest - **** finished TC001_AccountRegistrationTest *** 
+2025-05-30 10:08:03 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aseel\eclipse-workspace\Automation\OpenCart\master.xml
+
+2025-05-30 10:08:50 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aseel\eclipse-workspace\Automation\OpenCart\master.xml
+
+2025-05-30 10:08:55 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+2025-05-30 10:08:55 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Click on My Account link ***
+2025-05-30 10:08:55 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Click on Register link ***
+2025-05-30 10:08:56 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Providing Customer details ***
+2025-05-30 10:08:57 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Validating expected message ***
+2025-05-30 10:08:57 [main] INFO  testCases.TC001_AccountRegistrationTest - Test Passed
+2025-05-30 10:08:57 [main] INFO  testCases.TC001_AccountRegistrationTest - **** finished TC001_AccountRegistrationTest *** 
+2025-05-30 19:52:02 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+2025-05-30 19:52:02 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Click on My Account link ***
+2025-05-30 19:52:03 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Click on Register link ***
+2025-05-30 19:52:03 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Providing Customer details ***
+2025-05-30 19:52:06 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Validating expected message ***
+2025-05-30 19:52:06 [main] INFO  testCases.TC001_AccountRegistrationTest - Test Passed
+2025-05-30 19:52:06 [main] INFO  testCases.TC001_AccountRegistrationTest - **** finished TC001_AccountRegistrationTest *** 
