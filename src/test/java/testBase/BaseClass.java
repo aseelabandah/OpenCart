@@ -87,12 +87,9 @@ public class BaseClass {
 				return;
 			}
 			// Create RemoteWebDriver instance
-			try {
+			
 				driver = new RemoteWebDriver(new URL("http://localhost:4444/wd/hub"), options);
-			} catch (Exception e) {
-				System.out.println("Remote WebDriver failed to initialize: " + e.getMessage());
-				e.printStackTrace();
-			} }
+			 }
 
 			if(p.getProperty("execution_env").equalsIgnoreCase("local")) 
 			{

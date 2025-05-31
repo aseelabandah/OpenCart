@@ -493,3 +493,61 @@ Session ID: 94b36abc06508cc3004897f3f4b98c46
 2025-05-30 19:52:06 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Validating expected message ***
 2025-05-30 19:52:06 [main] INFO  testCases.TC001_AccountRegistrationTest - Test Passed
 2025-05-30 19:52:06 [main] INFO  testCases.TC001_AccountRegistrationTest - **** finished TC001_AccountRegistrationTest *** 
+2025-05-30 20:03:57 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aseel\eclipse-workspace\Automation\OpenCart\crossBrowserTesting.xml
+
+2025-05-30 20:28:44 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aseel\eclipse-workspace\Automation\OpenCart\master.xml
+
+2025-05-30 20:31:41 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aseel\eclipse-workspace\Automation\OpenCart\master.xml
+
+2025-05-30 21:04:37 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aseel\eclipse-workspace\Automation\OpenCart\master.xml
+
+2025-05-30 21:05:11 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aseel\eclipse-workspace\Automation\OpenCart\master.xml
+
+2025-05-30 21:06:06 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aseel\eclipse-workspace\Automation\OpenCart\master.xml
+
+2025-05-30 21:08:47 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aseel\eclipse-workspace\Automation\OpenCart\master.xml
+
+2025-05-30 21:09:44 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aseel\eclipse-workspace\Automation\OpenCart\master.xml
+
+2025-05-30 21:09:48 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+2025-05-30 21:09:48 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Click on My Account link ***
+2025-05-30 21:09:48 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Click on Register link ***
+2025-05-30 21:09:49 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Providing Customer details ***
+2025-05-30 21:09:51 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Validating expected message ***
+2025-05-30 21:09:51 [main] INFO  testCases.TC001_AccountRegistrationTest - Test Passed
+2025-05-30 21:09:51 [main] INFO  testCases.TC001_AccountRegistrationTest - **** finished TC001_AccountRegistrationTest *** 
+2025-05-30 21:21:33 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aseel\eclipse-workspace\Automation\OpenCart\master.xml
+
+2025-05-30 21:21:38 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+2025-05-30 21:21:38 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Click on My Account link ***
+2025-05-30 21:21:38 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Click on Register link ***
+2025-05-30 21:21:39 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Providing Customer details ***
+2025-05-30 21:21:41 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Validating expected message ***
+2025-05-30 21:21:41 [main] INFO  testCases.TC001_AccountRegistrationTest - Test Passed
+2025-05-30 21:21:41 [main] INFO  testCases.TC001_AccountRegistrationTest - **** finished TC001_AccountRegistrationTest *** 
+2025-05-30 21:38:02 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\aseel\eclipse-workspace\Automation\OpenCart\master.xml
+
+2025-05-30 21:38:06 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+2025-05-30 21:38:06 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Click on My Account link ***
+2025-05-30 21:38:06 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Click on Register link ***
+2025-05-30 21:38:07 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Providing Customer details ***
+2025-05-30 21:38:09 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Validating expected message ***
+2025-05-30 21:38:09 [main] INFO  testCases.TC001_AccountRegistrationTest - Test Passed
+2025-05-30 21:38:09 [main] INFO  testCases.TC001_AccountRegistrationTest - **** finished TC001_AccountRegistrationTest *** 
+2025-05-30 21:38:34 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+2025-05-30 21:38:34 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Click on My Account link ***
+2025-05-30 21:38:35 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Click on Register link ***
+2025-05-30 21:38:35 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Providing Customer details ***
+2025-05-30 21:38:37 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Validating expected message ***
+2025-05-30 21:38:37 [main] INFO  testCases.TC001_AccountRegistrationTest - Test Passed
+2025-05-30 21:38:37 [main] INFO  testCases.TC001_AccountRegistrationTest - **** finished TC001_AccountRegistrationTest *** 
